@@ -122,7 +122,7 @@ This project uses these dependencies:
 
 ## Authors
 
-* **Vedant Palekar** - *sheesh* - [hoopinwhoopin]([https://github.com/hoopinwhoopin])
+* **Vedant Palekar** - *sheesh* - [hoopinwhoopin] [https://github.com/hoopinwhoopin]
 
 ## License
 
