@@ -68,24 +68,9 @@ Run `npm test` to run the automated tests for this system.
 ## API Endpoints
 
 API endpoints Description:
-
-- `GET /` : This endpoint is used to get the index page of the product.
-- `GET /product/create` : This endpoint is used to get the product creation page.
-- `POST /product/create` : This endpoint is used to create a new product.
-- `GET /product/:id/delete` : This endpoint is used to get the product deletion page for a specific product.
-- `POST /product/:id/delete` : This endpoint is used to delete a specific product.
-- `GET /product/:id/update` : This endpoint is used to get the product update page for a specific product.
-- `POST /product/:id/update` : This endpoint is used to update a specific product.
-- `GET /product/:id` : This endpoint is used to get the details of a specific product.
-- `GET /variant/create` : This endpoint is used to get the variant creation page.
-- `POST /variant/create` : This endpoint is used to create a new variant.
-- `GET /variant/:id/delete` : This endpoint is used to get the variant deletion page for a specific variant.
-- `POST /variant/:id/delete` : This endpoint is used to delete a specific variant.
-- `GET /variant/:id/update` : This endpoint is used to get the variant update page for a specific variant.
-- `POST /variant/:id/update` : This endpoint is used to update a specific variant.
-- `GET /variant/:id` : This endpoint is used to get the details of a specific variant.
-- `POST /search` : This endpoint is used to search for a product.
-
+For task 2
+- `GET`;  /crypto-price?fromCurrency=bitcoin&toCurrency=basic-attention-token&date=12-01-2023
+  
 ## Architectural Decisions
 
 - made using model view control design.
